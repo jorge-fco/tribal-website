@@ -1,2 +1,2 @@
-# tribal-website
+# TRIBAL HOMEWARE
 TRIBAL HOMEWARE
