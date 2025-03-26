@@ -1,4 +1,13 @@
 # TRIBAL HOMEWARE
+
+## Navigation
+- Home
+- Categorías
+- Identidad
+- Proyectos
+- Contacto
+- Cart
+
 ## Arquitectura
 - Home
 - Identidad
