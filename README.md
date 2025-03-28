@@ -31,7 +31,7 @@
 - [x] Title
 - [x] Description
 - [x] Image
-- Favicon
+- [x] Favicon
 
 ## Libraries
 - jQuery –> v3.6.0
