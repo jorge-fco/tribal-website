@@ -11,6 +11,7 @@
 ## Features
 - Header fixed scroll
 - WhatsApp
+- Scroll Up
 
 ## Arquitectura
 - Home
@@ -29,4 +30,5 @@
 ## Libraries
 - jQuery –> v3.6.0
 - ScrollMagic –> v2.0.7
+- https://github.com/darkroomengineering/lenis
 
