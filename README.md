@@ -9,8 +9,8 @@
 - Cart
 
 ## Features
-- Header fixed scroll
-- WhatsApp
+- [x]Header fixed scroll
+- [x] WhatsApp
 - Scroll Up
 
 ## Arquitectura
