@@ -22,7 +22,6 @@ assets/js/*
 *.css.map
 *.sass.map
 *.scss.map
-*.mp4
 
 # Logs
 logs

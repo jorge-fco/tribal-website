@@ -11,7 +11,7 @@
 ## Features
 - [x] Header fixed scroll
 - [x] WhatsApp
-- [] Scroll Up
+- [x] Scroll Up
 
 ## Arquitectura
 - Home
@@ -28,8 +28,8 @@
 - Error 404
 
 ## Deploy
-- Title
-- Description
+- [x] Title
+- [x] Description
 - Image
 - Favicon
 
