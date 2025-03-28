@@ -30,7 +30,7 @@
 ## Deploy
 - [x] Title
 - [x] Description
-- Image
+- [x] Image
 - Favicon
 
 ## Libraries
