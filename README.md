@@ -9,9 +9,9 @@
 - Cart
 
 ## Features
-- [x]Header fixed scroll
+- [x] Header fixed scroll
 - [x] WhatsApp
-- Scroll Up
+- [] Scroll Up
 
 ## Arquitectura
 - Home
@@ -27,8 +27,15 @@
 - Preguntas frecuentes
 - Error 404
 
+## Deploy
+- Title
+- Description
+- Image
+- Favicon
+
 ## Libraries
 - jQuery –> v3.6.0
 - ScrollMagic –> v2.0.7
+- ScrollToPlugin –> v3.12.7
 - https://github.com/darkroomengineering/lenis
 
