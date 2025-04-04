@@ -14,14 +14,17 @@
 - [x] Scroll Up
 
 ## Arquitectura
-- Home
-- Identidad
-- Productos
-- Detalle de producto
+- *Home*
+- *Identidad*
+- *Productos*
+- *Detalle de producto*
 - Categorías
-- Proyectos
-- Detalle de proyecto
-- Contacto
+- *Proyectos*
+- *Detalle de proyecto*
+- Blog
+- Detalle de blog
+- *Contacto*
+- *Carrito*
 - Políticas de privacidad
 - Términos y condiciones
 - Preguntas frecuentes
