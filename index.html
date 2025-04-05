@@ -82,7 +82,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Manrope:wght@200..800&family=Mona+Sans:ital,wght@0,200..900;1,200..900&family=Sen:wght@400..800&family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
 <!-- TITLE--><title>Tribal Homewere – Fabricantes de muebles y accesorios</title>
-<!-- CSS--><link rel="stylesheet" href="https://jorge-fco.github.io/tribal-website/assets/dist/main.min.css?v=4.09">
+<!-- CSS--><link rel="stylesheet" href="https://jorge-fco.github.io/tribal-website/assets/dist/main.min.css?v=5.02">
 <link rel="stylesheet" href="https://unpkg.com/lenis@1.2.3/dist/lenis.css">
 <!-- GTM--><script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXX"></script>
 <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-XXXXXXXXX');</script></head>
@@ -118,15 +118,15 @@
 </svg></a>
 </div>
 </div>
-<div  class="header__column" role="column">
+<div  class="håeader__column" role="column">
 <nav class="header__navigation">
 <ul role="options">
-<li role="option">
+<li role="option" class="header__navigation__option">
 <a href="https://jorge-fco.github.io/tribal-website/" role="link" class="is--active">
 <span>Home</span>
 </a>
 </li>
-<li role="option">
+<li role="option" class="header__navigation__option">
 <a href="https://jorge-fco.github.io/tribal-website/products.html" role="suboptions">
 <span>Categorías</span>
 <svg viewBox="0 0 24 24"  xmlns="http://www.w3.org/2000/svg"> <path d="M10.0009 15.5858L13.5867 12L10.0009 8.41426C9.95209 8.36544 9.90937 8.31284 9.87276 8.25739C9.61648 7.86924 9.65919 7.34176 10.0009 7.00005C10.3914 6.60952 11.0246 6.60952 11.4151 7.00005L15.708 11.2929C15.8955 11.4805 16.0009 11.7348 16.0009 12C16.0009 12.2653 15.8955 12.5196 15.708 12.7072L11.4151 17C11.0246 17.3906 10.3914 17.3906 10.0009 17C9.61038 16.6095 9.61038 15.9764 10.0009 15.5858Z" /> </svg>
@@ -166,25 +166,30 @@
 </li>
 </ol>
 <!-- SUBMENU--></li>
-<li role="option">
+<li role="option" class="header__navigation__option">
 <a href="https://jorge-fco.github.io/tribal-website/about.html" role="link">
 <span>Identidad</span>
 </a>
 </li>
-<li role="option">
+<li role="option" class="header__navigation__option">
 <a href="https://jorge-fco.github.io/tribal-website/proyectos.html" role="link">
 <span>Proyectos</span>
 </a>
 </li>
-<li role="option">
+<li role="option" class="header__navigation__option">
 <a href="https://jorge-fco.github.io/tribal-website/contacto.html" role="link">
 <span>Contacto</span>
 </a>
 </li>
-<li role="option">
+<li role="option" class="header__navigation__cart">
 <a href="https://jorge-fco.github.io/tribal-website/cart.html" role="cart" data-num="1">
 <span>Carrito</span>
 <svg viewBox="0 0 24 24"  xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M0 3C0 2.44772 0.447715 2 1 2H3.67703C4.08593 2 4.45364 2.24895 4.6055 2.62861L5.15407 4H21.523C22.2304 4 22.7142 4.71453 22.4514 5.37139L19.5029 12.7428C19.1992 13.5021 18.4637 14 17.6459 14H8.21106L6.87255 16H19C19.5523 16 20 16.4477 20 17C20 17.5523 19.5523 18 19 18H5C4.63088 18 4.29178 17.7967 4.1179 17.4711C3.94402 17.1455 3.96365 16.7506 4.16895 16.4438L6.55276 12.8819L3 4H1C0.447715 4 0 3.55228 0 3ZM8.35407 12H17.6459L20.0459 6H5.95407L8.35407 12Z" /> <path d="M7.5 21.25C7.5 22.2165 6.7165 23 5.75 23C4.7835 23 4 22.2165 4 21.25C4 20.2835 4.7835 19.5 5.75 19.5C6.7165 19.5 7.5 20.2835 7.5 21.25Z" /> <path d="M18.25 23C19.2165 23 20 22.2165 20 21.25C20 20.2835 19.2165 19.5 18.25 19.5C17.2835 19.5 16.5 20.2835 16.5 21.25C16.5 22.2165 17.2835 23 18.25 23Z" /> </svg>
+</a>
+</li>
+<li role="option" class="header__navigation__menu">
+<button type="button" class="button">
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <path d="M3 7C3 6.44772 3.44772 6 4 6H20C20.5523 6 21 6.44772 21 7C21 7.55229 20.5523 8 20 8H4C3.44772 8 3 7.55229 3 7Z" /> <path d="M4 11C3.44772 11 3 11.4477 3 12C3 12.5522 3.44772 13 4 13H20C20.5523 13 21 12.5522 21 12C21 11.4477 20.5523 11 20 11H4Z" /> <path d="M3 17C3 16.4477 3.44772 16 4 16H20C20.5523 16 21 16.4477 21 17C21 17.5523 20.5523 18 20 18H4C3.44772 18 3 17.5523 3 17Z" /> </svg>
 </a>
 </li>
 </ul>
