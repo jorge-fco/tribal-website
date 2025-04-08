@@ -21,8 +21,8 @@
 - Categorías
 - *Proyectos*
 - *Detalle de proyecto*
-- Blog
-- Detalle de blog
+- *Blog*
+- *Detalle de blog*
 - *Contacto*
 - *Carrito*
 - Políticas de privacidad
@@ -40,5 +40,6 @@
 - jQuery –> v3.6.0
 - ScrollMagic –> v2.0.7
 - ScrollToPlugin –> v3.12.7
+- Flickity –> v2.3.0
 - https://github.com/darkroomengineering/lenis
 
