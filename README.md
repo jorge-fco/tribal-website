@@ -12,19 +12,20 @@
 - [x] Header fixed scroll
 - [x] WhatsApp
 - [x] Scroll Up
+- [ ] Menu mobile
 
 ## Arquitectura
 - *Home*
 - *Identidad*
-- *Productos*
+- **Productos**
 - *Detalle de producto*
 - Categorías
 - *Proyectos*
 - *Detalle de proyecto*
 - *Blog*
 - *Detalle de blog*
-- *Contacto*
-- *Carrito*
+- **Contacto**
+- **Carrito**
 - Políticas de privacidad
 - Términos y condiciones
 - Preguntas frecuentes
