@@ -341,7 +341,7 @@
 </svg>
 </a>
 </div>
-<!-- COOKIES--><main class="contact">
+<!-- COOKIES--><main class="contact js-contact">
 <section class="contact__section">
 <div class="page__layout">
 <!--GRID ROW-->
@@ -362,23 +362,27 @@
 <h2>¿Tienes preguntas?<span>a tu entera disposición.</span>
 </h2>
 </div>
-<form class="contact__form__component">
+<div class="contact__form__message" role="alert">Tu mensaje ha sido enviado con éxito y pronto nos pondremos en contacto contigo.</div>
+<form action="#" method="post" class="contact__form__component js-contact-form">
 <div class="contact__form__item" role="item">
 <label for="name">Nombre <em>*</em></label>
-<input type="text" name="name" id="name">
+<input type="text" name="name" id="name" class="js-form-input-name">
+<div class="contact__form__alert" role="alert"></div>
 </div>
 <!--GRID ROW-->
 <div class="contact__form__grid" role="grid">
 <div class="contact__form__column" role="column">
 <div class="contact__form__item" role="item">
 <label for="email">Email <em>*</em></label>
-<input type="email" name="email" id="email">
+<input type="email" name="email" id="email" class="js-form-input-email">
+<div class="contact__form__alert" role="alert"></div>
 </div>
 </div>
 <div  class="contact__form__column" role="column">
 <div class="contact__form__item" role="item">
 <label for="phone">Teléfono</label>
-<input type="phone" name="phone" id="phone">
+<input type="phone" name="phone" id="phone" class="js-form-input-phone">
+<div class="contact__form__alert" role="alert"></div>
 </div>
 </div>
 </div>
@@ -552,7 +556,7 @@
 </div>
 </footer><script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/lenis@1.2.3/dist/lenis.min.js"></script>
-<script src="https://jorge-fco.github.io/tribal-website/assets/dist/vendors.min.js?v=5.08"></script>
-<script src="https://jorge-fco.github.io/tribal-website/assets/dist/app.min.js?v=5.08"></script>
+<script src="https://jorge-fco.github.io/tribal-website/assets/dist/vendors.min.js?v=6.03"></script>
+<script src="https://jorge-fco.github.io/tribal-website/assets/dist/app.min.js?v=6.03"></script>
 </body>
 </html>

@@ -32,10 +32,10 @@
 - *Detalle de blog*
 - **Contacto**
 - **Carrito**
-- Políticas de privacidad
-- Términos y condiciones
+- *Políticas de privacidad*
+- *Términos y condiciones*
 - Preguntas frecuentes
-- *Error 404*
+- **Error 404**
 
 ## Deploy
 - [x] Title
