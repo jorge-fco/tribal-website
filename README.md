@@ -8,11 +8,17 @@
 - Contacto
 - Cart
 
+## Footer
+- Categories
+- Contact
+- Help
+
 ## Features
 - [x] Header fixed scroll
 - [x] WhatsApp
 - [x] Scroll Up
-- [ ] Menu mobile
+- [x] Menu mobile
+- [] Banner promotions
 
 ## Arquitectura
 - *Home*
@@ -29,7 +35,7 @@
 - Políticas de privacidad
 - Términos y condiciones
 - Preguntas frecuentes
-- Error 404
+- *Error 404*
 
 ## Deploy
 - [x] Title
